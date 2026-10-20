@@ -16,3 +16,5 @@ Freelance **Django developer** and **AI-native engineer** from Panauti, Nepal â€
 ![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushal867&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushal867&layout=compact&theme=dark&hide_border=true)
 <!--END_SECTION:stats-->
+
+> Open to freelance Django, AI-agent and n8n automation work.
