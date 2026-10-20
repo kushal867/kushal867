@@ -18,3 +18,5 @@ Freelance **Django developer** and **AI-native engineer** from Panauti, Nepal â€
 <!--END_SECTION:stats-->
 
 > Open to freelance Django, AI-agent and n8n automation work.
+
+<!-- updated with Claude Code -->
