@@ -2,7 +2,7 @@
 
 **AI-native automation engineer · Python/Django developer**
 
-*I build backends that think and automate.*
+<a href="https://kushal.aafaiai.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=C6F432&vCenter=true&width=640&lines=I+build+backends+that+think+and+automate.;AI-Native+Automation+Engineer;Django+Backend+Developer;n8n+%C2%B7+LLM+Agents+%C2%B7+PostgreSQL" alt="Animated tagline: I build backends that think and automate. AI-native automation engineer, Django backend developer, n8n, LLM agents, PostgreSQL" /></a>
 
 I build backend applications, AI agents and automation workflows that solve practical business problems. Based in Panauti, Nepal; BICT student at Virinchi College; independent developer under the Aafai AI name.
 
@@ -37,6 +37,16 @@ More, honestly labelled by status: [kushal.aafaiai.com/#work](https://kushal.aaf
 - **Automation and AI:** n8n, webhooks, OpenRouter, Ollama, LangChain, tool calling, structured output
 - **Frontend:** React, Vite, Tailwind CSS
 - **Tooling:** Git, GitHub, Docker, Vitest
+
+## GitHub activity
+
+<!--START_SECTION:stats-->
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kushal867&show_icons=true&theme=dark&hide_border=true&bg_color=05060A&title_color=C6F432&icon_color=7C5CFF&text_color=F4F6FB&count_private=true" alt="Kushal's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal867&layout=compact&theme=dark&hide_border=true&bg_color=05060A&title_color=C6F432&text_color=F4F6FB" alt="Most used languages" />
+</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kushal867&theme=dark&hide_border=true&background=05060A&ring=C6F432&fire=7C5CFF&currStreakLabel=2DD4FF" alt="Contribution streak" />
+<!--END_SECTION:stats-->
 
 ## How I engineer software
 
